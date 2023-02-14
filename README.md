@@ -7,7 +7,7 @@ Freelance React Developer
 Just another developer who loves building stuff with a passion.
 
 * 🌍  I'm based in Netherlands
-* ✉️  You can contact me at [selami1992@gmail.com](mailto:selami1992@gmail.com)
+* ✉️  You can contact me at [selami.c@sbytes-it.com](mailto:selami.c@sbytes-it.com)
 * 🚀  I'm currently working on [DappBox](https://github.com/Slmii/dappbox)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on any React projects
