@@ -8,7 +8,7 @@ Just another developer who loves building stuff with a passion.
 
 * 🌍  I'm based in Netherlands
 * ✉️  You can contact me at [selami.c@sbytes-it.com](mailto:selami.c@sbytes-it.com)
-* 🚀  I'm currently working on [DappBox](https://github.com/Slmii/dappbox)
+* 🚀  I'm currently working on [Circuitz](https://github.com/Slmii/circuitz-backend)
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on any React projects
 
