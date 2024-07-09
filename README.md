@@ -8,7 +8,7 @@ Just another developer who loves building stuff with a passion.
 
 * 🌍  I'm based in Netherlands
 * ✉️  You can contact me at [selami.c@sbytes-it.com](mailto:selami.c@sbytes-it.com)
-* 🚀  I'm currently working on [Circuitz](https://github.com/Slmii/circuitz-backend)
+* 🚀  I'm currently working on [Circuitz](https://github.com/Slmii/circuitz-backend), an iPaaS (Integration Platform as a Service) platform designed for interaction within the Internet Computer ecosystem. This platform simplifies the process of integrating, refining, and restructuring data across various canisters. It allows seamless data exchange and manipulation, building on each step to create a cohesive workflow.
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on any React projects
 
