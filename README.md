@@ -11,6 +11,7 @@ Just another developer who loves building stuff with a passion.
 * 🚀  I'm currently working on [Circuitz](https://github.com/Slmii/circuitz-backend), an iPaaS (Integration Platform as a Service) platform designed for interaction within the Internet Computer ecosystem. This platform simplifies the process of integrating, refining, and restructuring data across various canisters. It allows seamless data exchange and manipulation, building on each step to create a cohesive workflow.
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on any React projects
+* My contributions are without my BitBucket contributions
 
 <a href="https://www.twitter.com/Slmii05" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Slmii05?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
